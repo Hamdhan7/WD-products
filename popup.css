@@ -1,0 +1,31 @@
+body{
+    background: rgba(41, 4, 129, 0.12);
+    border-radius: 16px;
+    box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+    backdrop-filter: blur(14.1px);
+    -webkit-backdrop-filter: blur(14.1px);
+    border: 1px solid rgba(255, 255, 255, 0.3);
+    display: block;
+    height: 100vh;
+    margin-top: 20px;
+    margin-right: 50px;
+}
+
+.popup{
+    display: inline-block;
+}
+
+.left-part{
+    float: left;
+    width: 20%;
+
+}
+.right-part{
+    float: right;
+    width: 49%;
+}
+
+#prd-image{
+    
+    height: 80vh;
+}
